@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:waxed_oxidized_cut_copper"
+    },
+    "#": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ]
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 32,
+    "item": "mbt:waxed_oxidized_cut_copper_redstone_torch"
+  },
+  "show_notification": true
+}

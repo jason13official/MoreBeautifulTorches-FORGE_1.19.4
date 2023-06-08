@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:amethyst"
+    },
+    "#": [
+      {
+        "item": "minecraft:redstone"
+      }
+    ]
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 32,
+    "item": "mbt:amethyst_redstone_torch"
+  },
+  "show_notification": true
+}
